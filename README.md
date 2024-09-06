@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @WhiteHatAnkush
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Post Connection Attacks
-- 💞️ I’m looking to collaborate on Hacking Programs
-- 📫 How to reach me instagram.com/_ankush.03_
+- 👋 Hi, I’m @AnkushBandyopadhyay04
+- 👀 I’m interested in Problem Solving
 
 <!---
 WhiteHatAnkush/WhiteHatAnkush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
